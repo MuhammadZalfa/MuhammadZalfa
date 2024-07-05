@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Muhammad Zalfa Nur Arkan Al-Farabi 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+  <a href="https://www.linkedin.com/in/muhammad-zalfa-a481a7317/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/yourinstagramhandle">
+  <a href="https://www.instagram.com/r.ryunix/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&labelColor=pink" alt="Instagram Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kirigaya.org@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red" alt="Email Badge"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 - 💞️ I’m looking to collaborate on exciting open-source projects.
 - 📫 How to reach me: [kirigaya.org@gmail.com](mailto:kirigaya.org@gmail.com)
 - 😄 Pronouns: Cheese Burger
-- ⚡ Fun fact: Love his Girlsfriend
+- ⚡ Fun fact: Love his girlfriend
 
 ---
 
@@ -35,15 +35,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadZalfa&show_icons=true&theme=radical" alt="Muhammad Zalfa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" height="150px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" height="150px">
 </p>
 
 ---
 
 ### 🔗 Let's Connect
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/muhammad-zalfa-a481a7317/))
-- [Instagram]([https://www.instagram.com/yourinstagramhandle](https://www.instagram.com/r.ryunix/))
-- [Portfolio]([https://yourportfolio.com](https://muhammadzalfa.github.io/Portofolio/))
+- [LinkedIn](https://www.linkedin.com/in/muhammad-zalfa-a481a7317/)
+- [Instagram](https://www.instagram.com/r.ryunix/)
+- [Portfolio](https://muhammadzalfa.github.io/Portofolio/)
 
 ---
 
+<!---
+MuhammadZalfa/MuhammadZalfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
