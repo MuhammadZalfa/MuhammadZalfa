@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/yourinstagramhandle">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&labelColor=E4405F" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&labelColor=pink" alt="Instagram Badge"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red" alt="Email Badge"/>
