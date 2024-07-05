@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Muhammad Zalfa 👋</h1>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourimage.png" alt="Banner" width="100%"/>
-</p>
+<h1 align="center">Hi, I'm Muhammad Zalfa Nur Arkan Al-Farabi 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yourlinkedinprofile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue" alt="Twitter Badge"/>
+  <a href="https://www.instagram.com/yourinstagramhandle">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&labelColor=E4405F" alt="Instagram Badge"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&labelColor=red" alt="Email Badge"/>
@@ -19,11 +15,11 @@
 ---
 
 ### 👀 About Me
-- 🌱 I’m currently learning advanced JavaScript, React, and Node.js.
+- 🌱 I’m currently learning advanced JavaScript, PHP, and Laravel.
 - 💞️ I’m looking to collaborate on exciting open-source projects.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+- 📫 How to reach me: [kirigaya.org@gmail.com](mailto:kirigaya.org@gmail.com)
+- 😄 Pronouns: Cheese Burger
+- ⚡ Fun fact: Love his Girlsfriend
 
 ---
 
@@ -45,14 +41,9 @@
 ---
 
 ### 🔗 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
-- [Portfolio](https://yourportfolio.com)
-- [Blog](https://yourblog.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourlinkedinprofile](https://www.linkedin.com/in/muhammad-zalfa-a481a7317/))
+- [Instagram]([https://www.instagram.com/yourinstagramhandle](https://www.instagram.com/r.ryunix/))
+- [Portfolio]([https://yourportfolio.com](https://muhammadzalfa.github.io/Portofolio/))
 
 ---
 
-<!---
-MuhammadZalfa/MuhammadZalfa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
